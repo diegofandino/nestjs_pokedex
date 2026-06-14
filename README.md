@@ -7,3 +7,4 @@
 1. Clone repository
 2. execute yarn install to load node_modules
 3. use docker-compose up -d to load images (mongo) - Database
+4. execute yarn seed to seed database - url:port/api/seed GET method
